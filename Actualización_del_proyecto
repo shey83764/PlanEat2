@@ -1,0 +1,3 @@
+Crear una carpeta llamada "servi_backend" fuera de la carpeta PlanEatApp, agregar la carpeta Backend de PlanEatApp a la de servi_backend(controllers,routers) 
+
+Instalar Express dentro de esa carpeta,cors y nodemon
